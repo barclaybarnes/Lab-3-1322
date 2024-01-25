@@ -1,0 +1,4 @@
+C:\Users\Barclay\source\repos\Lab 3 1322\Lab 3 1322\obj\Debug\net6.0\Lab 3 1322.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barclay\source\repos\Lab 3 1322\Lab 3 1322\obj\Debug\net6.0\Lab 3 1322.AssemblyInfoInputs.cache
+C:\Users\Barclay\source\repos\Lab 3 1322\Lab 3 1322\obj\Debug\net6.0\Lab 3 1322.AssemblyInfo.cs
+C:\Users\Barclay\source\repos\Lab 3 1322\Lab 3 1322\obj\Debug\net6.0\Lab 3 1322.csproj.CoreCompileInputs.cache
